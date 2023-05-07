@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Biography App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_me_txt">About Me</string>
+    <string name="gallery_text">Gallery</string>
+    <string name="contact_text">Contact</string>
+    <string name="blog_text">Blog</string>
+    <string name="app_title">BIOGRAPHY APP</string>
+
+</resources>
