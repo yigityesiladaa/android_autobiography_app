@@ -1,5 +1,5 @@
-# SNotes
-A mobile application that I am talking about and still developing in terms of ui/backend
+# Autobiography App
+The autobiography mobile application that I talk about, developed as an assignment within the scope of Turkcell Kotlin Bootcamp
 
 ## Tools Used in the Application
 
