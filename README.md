@@ -19,11 +19,11 @@ Glide  | 4.15.1
 
 Home Screen  | Gallery Screen | Gallery Detail Screen
 ------------- | ------------- | -------------
-<a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/home_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600"/></a> | <a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/gallery_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" /></a> | <a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/gallery_detail_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600"/></a>
+<a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/home_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/></a> | <a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/gallery_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /></a> | <a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/gallery_detail_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/></a>
 
 Contact Screen  | Blog Screen | About Me Screen
 ------------- | ------------- | -------------
-<a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/contact_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600"/></a> | <a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/blog_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600"/></a> | <a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/about_me_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600"/></a>
+<a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/contact_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/></a> | <a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/blog_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/></a> | <a><img src="https://github.com/yyigityesiladaa/BiographyApp/blob/main/app_images/about_me_screen.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/></a>
 
 
 
