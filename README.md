@@ -15,7 +15,7 @@ Navigation  | 2.5.3
 Glide  | 4.15.1
 </p>
 
-## App Display Images
+### App Display Images
 
 Home Screen  | Gallery Screen | Gallery Detail Screen
 ------------- | ------------- | -------------
